@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @CP-Payne
-- 👀 I’m interested in a wide variety of technology.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on TBC
-- 📫 How to reach me TBC
+## Hi there! I'm Charles Payne 👋
+I'm a software engineer with a background in cybersecurity and a passion for backend development. I love building APIs and creating efficient solutions. Currently focused on expanding my expertise through continuous learning and personal projects. Check out some of my work below.
 
 <!---
 CP-Payne/CP-Payne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
